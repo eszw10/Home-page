@@ -2,27 +2,52 @@
   box-sizing: border-box;
 }
 body{
-    margin: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
-.container {
-    position: relative;
-    background-size: 1656.84px;
+.page-2{
+  background-color: lightblue;
+  z-index: 1000;
 }
 
-.bgStyle {
-  width: 100vw;
-  height: 100vh;
-  background-repeat: no-repeat;
-  object-fit: cover;
+.el{
+  width: 100%;  
+  left: 0;
 }
 
-.el-1 {
-  position: absolute;
-  height: 437.8325500488281px;
-  width: 787.8733520507812px;
-  left: 32.72%;
-  right: 20.41%;
-  top: 59.43%;
-  bottom: 31.18%;
+.el-logo{
+  left: 40vw;
+  top: 10vh;
+}
+
+.el-1{
+  top: 0;
+}
+
+.el-2{
+  top:70vh;
+}
+.el-3{
+  top:65vh;
+}
+
+.el-4{
+  top:65vh;
+}
+
+.el-5{
+  top: 30vh;
+}
+
+.el-6{
+  top: 63vh;
+}
+
+.el-7{
+  top: 110vh;
+}
+
+.el-8{
+  top:42vh;
 }
