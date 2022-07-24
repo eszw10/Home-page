@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    background-size: 1656.84px;
+}
+
+.bgStyle {
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+.el-1 {
+  position: absolute;
+  height: 437.8325500488281px;
+  width: 787.8733520507812px;
+  left: 32.72%;
+  right: 20.41%;
+  top: 59.43%;
+  bottom: 31.18%;
+}
